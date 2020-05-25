@@ -13,7 +13,7 @@ $server = IoServer::factory(
             new Chat()
         )
     ),
-    8080
+    7070
 );
 
 date_default_timezone_set('Europe/Paris');
