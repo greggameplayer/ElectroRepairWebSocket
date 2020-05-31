@@ -18,6 +18,9 @@
   "autoload": {
     "psr-4": {
       "Chat\\": "server"
-    }
+    },
+    "files": [
+      "server/DB.php"
+    ]
   }
 }
